@@ -47,7 +47,7 @@ It means that if we want to rotate a vector v<sub>0</sub>  with the coordinates 
 
 <img src="images/showing transformation in matrix form.jpg">
 
-The ratation is shown in the diagram below:
+The rotation is shown in the diagram below:
 
 <img src="images/diagram of rotation in R2.jpg">
 
@@ -80,11 +80,9 @@ You are trying to find the nearest neighbor for the red vector (point). The firs
 We can actually represent a document as a vector. Vector space models represent documents as vectors in a high-dimensional space, and they can be used to find similar documents or to cluster documents together. <br>
 In our programming example, we just added the word vectors of a document to get the document vector. 
 
-
 ### Conclusion
 I learned to transform word vectors and assign them to subsets using *locality sensitive hashing*, in order to perform machine translation and document search.<br>
 I had the opportunity to apply all of the aforementioned concepts and skills into practice. It was a fantastic learning experience. I appreciate and am grateful for the chance.
-
 
 Thank you, and happy learning!<br>
 ***
